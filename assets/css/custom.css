@@ -1,0 +1,10 @@
+body{
+	margin: 0;
+}
+h1,p,a{
+	font-family: montserratbold,sans-serif !important;
+}
+a,li{
+	text-decoration: none;
+	color: #fff;
+}
